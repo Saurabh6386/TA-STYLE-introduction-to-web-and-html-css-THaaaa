@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(167, 215, 215);
+}
+
+#unique {
+    color: blueviolet;
+    font-size: 20px;
+}
+
+.para {
+    color: rgb(12, 12, 9);
+    font-size: 15px;
+}
