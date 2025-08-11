@@ -1,0 +1,25 @@
+body{
+    background-color: #22386b;
+    color: #fffefe;
+}
+
+h2{
+    color: #30bb67;
+}
+a{
+    color: red;
+}
+img{
+    height: 200px;
+    width: 200px;
+}
+header{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+    background-color: rgb(185, 164, 164);
+
+}
+
